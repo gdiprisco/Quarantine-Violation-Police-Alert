@@ -13,4 +13,4 @@ The info used in the system are not owned by a unique actor in order to prevent 
 
 
 ## Details
-All details and the instructions about how to run the code in Quarantine Violation Police Alert - White Paper.pdf
+All details and the instructions about how to run the code in [Quarantine Violation Police Alert - White Paper.pdf](https://github.com/gdiprisco/Quarantine-Violation-Police-Alert/blob/master/Quarantine%20Violation%20Police%20Alert%20-%20White%20Paper.pdf)
