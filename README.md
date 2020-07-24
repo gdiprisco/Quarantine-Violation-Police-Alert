@@ -5,7 +5,7 @@ The system is based on the DP3T protocol and uses its infrastructure. Our idea a
 ## The aim
 The goal is preventing the violation quarantine without revealing the identity of the person (unless it is necessary to punish an illegal action). The aim is achieved adding to the data that the app backend of DP3T knows normally, some extra anonymous data. The only personal information is owned by a backend server belonging to a police authority and it is used only to punish a citizen that is not respecting the rules.  
 
-## The hardware
+## The idea
 A special BLE Beacon is installed in the house of the quarantined person (this detail will be discussed further) and it is established a continuous exchange of messages between the app backend and what we will call SmartBeacon. The smartphone is like a proxy in this context and needs to be near to the SmartBeacon in order to have a successful communication. The messages exchanged between the SmartBeacon and the smartphone and then between the smartphone and the app backend does not contain personal info. If the exchange is successful it is assumed that the person is respecting the quarantine; if something goes wrong, the police authority is informed and can decide what measure should be taken.  
 
 ## Privacy
