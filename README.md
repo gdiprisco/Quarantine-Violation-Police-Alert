@@ -1,4 +1,4 @@
-# Quarantine-Violation-Police-Alert
+# Quarantine Violation Police Alert
 This project proposes a system to prevent violations of the quarantine during the SARS-CoV-2 pandemic. A citizen (infected or not) can be quarantined; this system helps the police authority in monitoring them during the isolation.
 The system is based on the DP3T protocol and uses its infrastructure. Our idea adds some new information to DP3T in order to achieve the new goals trying not to violate the security and the privacy of DP3T.  
 
